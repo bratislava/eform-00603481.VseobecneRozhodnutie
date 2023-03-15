@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><meta:metadata xmlns:attachment="urn:attachment:1.0" xmlns:manifest="urn:manifest:1.0" xmlns:attachmentfile="urn:attachmentfile:1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:setting="urn:setting:1.0" xmlns:content="urn:content:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:presentation="urn:presentation:1.0" xmlns:data="urn:data:1.0" xmlns:meta="urn:meta:1.0"><dc:title>Všeobecná agenda</dc:title><dc:identifier>http://data.gov.sk/doc/eform/App.GeneralAgenda/1.9</dc:identifier><dc:description>Všeobecná agenda</dc:description><dc:creator>Skutocny1145 Emil</dc:creator><dc:publisher>ico://sk/42156424_90000</dc:publisher><meta:version>1.9</meta:version><meta:validDateFrom>2015-04-08</meta:validDateFrom><meta:inForceFrom>2015-04-08</meta:inForceFrom></meta:metadata>
+<?xml version="1.0" encoding="utf-8"?>
+<meta:metadata xmlns:attachment="urn:attachment:1.0" xmlns:manifest="urn:manifest:1.0"
+    xmlns:attachmentfile="urn:attachmentfile:1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:setting="urn:setting:1.0" xmlns:content="urn:content:1.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:presentation="urn:presentation:1.0"
+    xmlns:data="urn:data:1.0" xmlns:meta="urn:meta:1.0">
+    <dc:title>Všeobecné rozhodnutie</dc:title>
+    <dc:identifier>http://data.gov.sk/doc/eform/00603481.VseobecneRozhodnutie/1.9</dc:identifier>
+    <dc:description>Všeobecné rozhodnutie</dc:description>
+    <dc:creator>Tisici Janko</dc:creator>
+    <dc:publisher>ico://sk/00603481</dc:publisher>
+    <meta:version>1.9</meta:version>
+</meta:metadata>
